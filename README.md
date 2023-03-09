@@ -2,7 +2,7 @@
     - Se penso en usar un login, un registro y un cierre de sesion debido a que un usuario puede suscribirse a n tipos de servicios.
     Esto permite separar y encapsular mejor el codigo permitiendo escalar el desarrollo de esta API.
     - Para entender como consumir el api entrar en:
-    localhost/api/documentation una vez ejectuado el comando de swagger.
+    localhost/api/documentation una vez ejecutado el comando de swagger.
     
 # Requiremientos del Servidor
 
